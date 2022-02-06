@@ -1,6 +1,10 @@
 # psycho_trigger
 a forum in which people can share methodologies on how to trigger others
 
+### update 
+2/6/22
+Due to the low participation rate on this forum, this forum has been closed for an indefinite amount of time.
+
 ## more details
 You are probably wondering why a psychological topic is on Github.
 "BOO! Github is for code. Software all day!" Simple. Algorithms are
