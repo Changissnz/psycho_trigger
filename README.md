@@ -6,7 +6,7 @@ a forum in which people can share methodologies on how to trigger others
 Due to the low participation rate on this forum, this forum has been closed for an indefinite amount of time.
 
 2/8/22
-For clarification, the term "trigger" in this project refers to that in the link below. 
+For clarification, the term "trigger" in this project refers to that in the link: 
 https://www.urbandictionary.com/define.php?term=Triggered
 
 ## more details
